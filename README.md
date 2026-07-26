@@ -1,5 +1,7 @@
 # Hospital Readmission Risk Prediction
 
+🔗 **Live app:** https://hospital-readmission-risk-prediction-using-ml.streamlit.app/
+
 Machine Learning pipeline to predict **30-day hospital readmission risk** using clinical, demographic, laboratory, and hospitalization history data from **101K+ patient encounters**.
 
 ## Problem
